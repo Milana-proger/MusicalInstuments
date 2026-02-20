@@ -5,7 +5,7 @@ public class MusicalInstrument {
     double volume;
 
     public void playing() {
-        System.out.println("Инструмент играет");
+        System.out.println("Инструмент играет! Это сообщение отредактировано");
     }
 
     public void adjusting() {
