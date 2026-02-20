@@ -15,4 +15,6 @@ public class MusicalInstrument {
     public void existing() {
         System.out.println("Инструмент ждет своего часа");
     }
+
+
 }

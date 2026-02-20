@@ -2,8 +2,8 @@ public class Violin extends MusicalInstrument{
     int volume;
     String material;
 
-    public String getMaterial()
-    {
+    public String getMaterial() {
+        System.out.println("В процессе получения материала");
         return material;
     }
 }
